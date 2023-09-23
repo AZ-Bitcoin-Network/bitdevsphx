@@ -1,17 +1,17 @@
 [Skip to content](index.html@p=151.html#content)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
-[Atlanta BitDevs](index.html)
+[Phoenix BitDevs](index.html)
 
-Free & Open Bitcoin Education in Atlanta
+Free & Open Bitcoin Education in Phoenix
 
 Menu  Close
 
   * [Home](index.html)
   * [About](index.html@p=6.html)
-  * [Meetup](https://www.meetup.com/atlantabitdevs/)
+  * [Meetup](https://www.meetup.com/azbitcoin)
   * [Telegram](index.html@p=62.html)
   * [Contact](index.html@p=7.html)
 
@@ -21,7 +21,7 @@ Menu  Close
 seminar-1568x882.jpg)
 
 It’s almost time for [Bitcoin Socratic Seminar
-#8](https://www.meetup.com/atlantabitdevs/events/286248874/)!
+#8](https://www.meetup.com/azbitcoinevents/286248874/)!
 
 ## What is a Socratic Seminar?
 
@@ -86,7 +86,7 @@ and its importance for cryptography.
   * [Lunch Money](https://www.figma.com/proto/TXyzwITFYRUXPZ8IYbO5Ex/pleb.fi-hackathon?node-id=31%3A1680&scaling=contain&page-id=31%3A1646&starting-point-node-id=31%3A1647) - Get paid in BTC while you browse the internet
     * [Source code](https://github.com/dylanbathurst/lunch-money)
   * SimpiMint - simplicity for FediMint
-  * [Terminus Pay](https://github.com/atlantabitdevs/terminus-pay-ui)
+  * [Terminus Pay](https://github.com/Phoenixbitdevs/terminus-pay-ui)
 
 Published June 28, 2022By [Stephen DeLorme](author/stephen/index.html)
 
@@ -153,9 +153,9 @@ No comments to show.
   * [Reading Groups](category/reading-groups/index.html)
   * [Socratic Seminars](category/socratic-seminars/index.html)
 
-  * [Twitter](https://twitter.com/atlantabitdevs)
+  * [Twitter](https://twitter.com/Phoenixbitdevs)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
 Proudly powered by [WordPress](https://wordpress.org/).

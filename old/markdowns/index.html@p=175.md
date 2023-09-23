@@ -1,17 +1,17 @@
 [Skip to content](index.html@p=175.html#content)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
-[Atlanta BitDevs](index.html)
+[Phoenix BitDevs](index.html)
 
-Free & Open Bitcoin Education in Atlanta
+Free & Open Bitcoin Education in Phoenix
 
 Menu  Close
 
   * [Home](index.html)
   * [About](index.html@p=6.html)
-  * [Meetup](https://www.meetup.com/atlantabitdevs/)
+  * [Meetup](https://www.meetup.com/azbitcoin)
   * [Telegram](index.html@p=62.html)
   * [Contact](index.html@p=7.html)
 
@@ -21,7 +21,7 @@ Menu  Close
 seminar-1568x882.jpg)
 
 It’s almost time for [Bitcoin Socratic Seminar
-#11](https://www.meetup.com/atlantabitdevs/events/287231374/)!
+#11](https://www.meetup.com/azbitcoinevents/287231374/)!
 
 ## What is a Socratic Seminar?
 
@@ -94,7 +94,7 @@ bitcoin times, but understanding these distinctions may be useful for the next
 ### 🟪 Fedimint signet test
 
 [Fedimint](https://fedimint.org/), the project [we looked at last
-month](https://www.meetup.com/atlantabitdevs/events/287231362/), has deployed
+month](https://www.meetup.com/azbitcoinevents/287231362/), has deployed
 to bitcoin signet.
 
   * [Fedimint deployed to bitcoin signet](https://twitter.com/EricSirion/status/1572329210727010307)
@@ -177,9 +177,9 @@ No comments to show.
   * [Reading Groups](category/reading-groups/index.html)
   * [Socratic Seminars](category/socratic-seminars/index.html)
 
-  * [Twitter](https://twitter.com/atlantabitdevs)
+  * [Twitter](https://twitter.com/Phoenixbitdevs)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
 Proudly powered by [WordPress](https://wordpress.org/).

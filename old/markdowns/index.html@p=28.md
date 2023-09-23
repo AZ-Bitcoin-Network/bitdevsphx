@@ -1,28 +1,28 @@
 [Skip to content](index.html@p=28.html#content)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
-[Atlanta BitDevs](index.html)
+[Phoenix BitDevs](index.html)
 
-Free & Open Bitcoin Education in Atlanta
+Free & Open Bitcoin Education in Phoenix
 
 Menu  Close
 
   * [Home](index.html)
   * [About](index.html@p=6.html)
-  * [Meetup](https://www.meetup.com/atlantabitdevs/)
+  * [Meetup](https://www.meetup.com/azbitcoin)
   * [Telegram](index.html@p=62.html)
   * [Contact](index.html@p=7.html)
 
 # Topics for Socratic Seminar #3
 
-![Atlanta BitDevs Socratic Seminar #3
-poster](content/uploads/2021/10/AtlantaBitDevs_Event-
+![Phoenix BitDevs Socratic Seminar #3
+poster](content/uploads/2021/10/PhoenixBitDevs_Event-
 Picture_Socratic3-1568x886.png)
 
 Here are the topics we'll be covering at [Socratic Seminar
-#3](https://www.meetup.com/atlantabitdevs/events/279332744/).
+#3](https://www.meetup.com/azbitcoinevents/279332744/).
 
 ## 🎃 Whitepaper
 
@@ -144,9 +144,9 @@ No comments to show.
   * [Reading Groups](category/reading-groups/index.html)
   * [Socratic Seminars](category/socratic-seminars/index.html)
 
-  * [Twitter](https://twitter.com/atlantabitdevs)
+  * [Twitter](https://twitter.com/Phoenixbitdevs)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
 Proudly powered by [WordPress](https://wordpress.org/).

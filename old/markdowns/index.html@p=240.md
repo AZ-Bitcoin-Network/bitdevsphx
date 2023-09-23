@@ -1,17 +1,17 @@
 [Skip to content](index.html@p=240.html#content)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
-[Atlanta BitDevs](index.html)
+[Phoenix BitDevs](index.html)
 
-Free & Open Bitcoin Education in Atlanta
+Free & Open Bitcoin Education in Phoenix
 
 Menu  Close
 
   * [Home](index.html)
   * [About](index.html@p=6.html)
-  * [Meetup](https://www.meetup.com/atlantabitdevs/)
+  * [Meetup](https://www.meetup.com/azbitcoin)
   * [Telegram](index.html@p=62.html)
   * [Contact](index.html@p=7.html)
 
@@ -21,7 +21,7 @@ Menu  Close
 privacy-1568x882.jpg)
 
 We're [meeting
-tonight](https://www.meetup.com/atlantabitdevs/events/290912698/) to discuss
+tonight](https://www.meetup.com/azbitcoinevents/290912698/) to discuss
 the [Routing Analysis](https://lightningprivacy.com/en/routing-analysis)
 chapter of [Lightning Privacy
 Research](https://lightningprivacy.com/en/introduction). Here are some notes
@@ -111,7 +111,7 @@ dev/2022-June/003621.html))
     * Timing delays - no active work being done to the knowledge of the authors
     * MPP is possible today. Splintering has not been discussed before.
 
-[](https://www.meetup.com/atlantabitdevs/events/290912698/attendees/)
+[](https://www.meetup.com/azbitcoinevents/290912698/attendees/)
 
 Published January 18, 2023By [Stephen DeLorme](author/stephen/index.html)
 
@@ -177,9 +177,9 @@ No comments to show.
   * [Reading Groups](category/reading-groups/index.html)
   * [Socratic Seminars](category/socratic-seminars/index.html)
 
-  * [Twitter](https://twitter.com/atlantabitdevs)
+  * [Twitter](https://twitter.com/Phoenixbitdevs)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
 Proudly powered by [WordPress](https://wordpress.org/).

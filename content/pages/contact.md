@@ -2,6 +2,5 @@
 title: 'Contact'
 ---
 
-Contact us at atlantabitdevs at proton dot me. Telegram link coming soon.
-
+Contact us on (Telegram)[https://t.me/+I9k_v-3YyD8wM2Fh].
 

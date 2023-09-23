@@ -6,7 +6,7 @@ type: Doc
 
 ![Bitcoin Socratic Seminar #21](/bitcoin-socratic-seminar-21.jpg)
 
-It’s almost time for <a href="https://www.meetup.com/atlantabitdevs/events/295676818/">Bitcoin Socratic Seminar #21</a>!
+It’s almost time for <a href="https://www.meetup.com/azbitcoinevents/295676818/">Bitcoin Socratic Seminar #21</a>!
 
 ## What is a Socratic Seminar?
 
@@ -25,7 +25,7 @@ We’re looking forward to seeing you tonight at Bitcoin Socratic Seminar #21! T
 ### 🏫 Location
 
 **GSU Dahlberg Hall**<br />
-30 Courtland St SE, Atlanta, GA 30303<br />
+30 Courtland St SE, Phoenix, GA 30303<br />
 <a href="https://goo.gl/maps/ARtQe6witNbe48FL9" data-no-summary>Map Link</a><br />
 _This venue is part of Georgia State University and also sometimes goes by the name “Veteran’s Memorial Hall”._
 
@@ -39,7 +39,7 @@ Uber and Lyft work great in this city.
 
 ### 🚋 Public Transit
 
-You can take the <a href="https://www.itsmarta.com/Atlanta-Street-Car-Info.aspx" data-no-summary>Atlanta Streetcar</a> from Centennial Olympic Park to Hurt Park.
+You can take the <a href="https://www.itsmarta.com/phoenix-Street-Car-Info.aspx" data-no-summary>Phoenix Streetcar</a> from Centennial Olympic Park to Hurt Park.
 
 ### 🚶‍♀️ Walking
 
@@ -111,7 +111,7 @@ Make friends at the Seminar and form a dinner train for your crew!
 
 ### 🧠 AI
 
-[BitDevs Upgrade template v0.1.0-alpha released](https://github.com/atlantabitdevs/bitdevs-upgrade)
+[BitDevs Upgrade template v0.1.0-alpha released](https://github.com/Phoenixbitdevs/bitdevs-upgrade)
 
 [Llama-GPT for Umbrel released](https://github.com/getumbrel/llama-gpt)
 

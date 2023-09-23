@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp/wp-admin/
 Allow: /wp/wp-admin/admin-ajax.php
 
-Sitemap: https://atlantabitdevs.org/sitemap_index.xml
+Sitemap: https://Phoenixbitdevs.org/sitemap_index.xml

@@ -1,17 +1,17 @@
 [Skip to content](index.html@p=212.html#content)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
-[Atlanta BitDevs](index.html)
+[Phoenix BitDevs](index.html)
 
-Free & Open Bitcoin Education in Atlanta
+Free & Open Bitcoin Education in Phoenix
 
 Menu  Close
 
   * [Home](index.html)
   * [About](index.html@p=6.html)
-  * [Meetup](https://www.meetup.com/atlantabitdevs/)
+  * [Meetup](https://www.meetup.com/azbitcoin)
   * [Telegram](index.html@p=62.html)
   * [Contact](index.html@p=7.html)
 
@@ -21,7 +21,7 @@ Menu  Close
 seminar-1-1568x882.jpg)
 
 It’s almost time for [Bitcoin Socratic Seminar
-#13](https://www.meetup.com/atlantabitdevs/events/289310210/)!
+#13](https://www.meetup.com/azbitcoinevents/289310210/)!
 
 ## What is a Socratic Seminar?
 
@@ -163,9 +163,9 @@ No comments to show.
   * [Reading Groups](category/reading-groups/index.html)
   * [Socratic Seminars](category/socratic-seminars/index.html)
 
-  * [Twitter](https://twitter.com/atlantabitdevs)
+  * [Twitter](https://twitter.com/Phoenixbitdevs)
 
-[![Atlanta BitDevs logo](content/uploads/2021/10/ColorColor-
+[![Phoenix BitDevs logo](content/uploads/2021/10/ColorColor-
 SizeCondensed.png)](index.html)
 
 Proudly powered by [WordPress](https://wordpress.org/).

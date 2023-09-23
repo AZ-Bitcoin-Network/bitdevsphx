@@ -2,9 +2,9 @@
 title: 'About'
 ---
 
-## What is Atlanta BitDevs?
+## What is Phoenix BitDevs?
 
-The Atlanta BitDevs is a place for free and open Bitcoin education in Atlanta. Discussions will be technical but are open to people of all skill levels. Join the community and #LearnBitcoinTogether!
+The Phoenix BitDevs is a place for free and open Bitcoin education in Phoenix. Discussions will be technical but are open to people of all skill levels. Join the community and #LearnBitcoinTogether!
 
 ## What is a Socratic Seminar?
 
@@ -16,4 +16,4 @@ Please contact the organizers if you’d like to present at a future Socratic ev
 
 ### Legacy Website
 
-Currently, there are 2 websites running for this meetup. This website uses an [experimental new template with AI summaries](https://github.com/atlantabitdevs/bitdevs-upgrade) of content. The [old website can be found here](https://atlantabitdevs.org/) while the organizers are still in the process of migrating content to this one.
+Currently, there are 2 websites running for this meetup. This website uses an [experimental new template with AI summaries](https://github.com/Phoenixbitdevs/bitdevs-upgrade) of content. The [old website can be found here](https://Phoenixbitdevs.org/) while the organizers are still in the process of migrating content to this one.

@@ -8,7 +8,7 @@ type: Doc
 ![](content/uploads/2023/07/ATLBitDevs_2023-07-19_socratic-1568x882.jpg)
 
 It’s almost time for [Bitcoin Socratic Seminar
-#20](https://www.meetup.com/atlantabitdevs/events/294482440/)!
+#20](https://www.meetup.com/azbitcoinevents/294482440/)!
 
 ## What is a Socratic Seminar?
 

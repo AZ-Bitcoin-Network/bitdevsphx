@@ -10,8 +10,8 @@ type: Doc
 #5](content/uploads/2022/03/ATLBitDevs_2022-03-23_socratic-
 seminar-1568x882.png)
 
-It's time for the [first Atlanta BitDevs Socratic Seminar of
-2022](https://www.meetup.com/atlantabitdevs/events/283224005/)! Come hang out
+It's time for the [first Phoenix BitDevs Socratic Seminar of
+2022](https://www.meetup.com/azbitcoinevents/283224005/)! Come hang out
 with Bitcoiners and developers to discuss the latest developments in Bitcoin,
 Lightning, and related technology.
 
@@ -29,7 +29,7 @@ are formatted to foster debate, information sharing and lively discussion.
 
 ![](content/uploads/2022/03/pleb-fm-leaderboard-1024x576.jpg)
 
-This past weekend, members of Atlanta BitDevs participated in the SatsX
+This past weekend, members of Phoenix BitDevs participated in the SatsX
 hackathon and took the Overall Best Prize for **PlebFM** , an auction-style
 jukebox where you big over the Lightning network to bump your music to the top
 of the queue. [Alex Lewin of NCR](https://twitter.com/Cork__Screw) will do a
