@@ -39,5 +39,5 @@ export const metaupdata: Metaupdata = {
       link: '/page/contact',
     },
   ],
-  image: '/phoenix-bitdevs-poster.jpg',
+  image: '/phx-bitdevs.png',
 }
