@@ -1,12 +1,10 @@
 ---
-date: '2023-09-05'
-title: 'Bitcoin Socratic Seminar #21'
+date: '2023-10-10'
+title: 'Bitcoin Socratic Seminar #1'
 type: Doc
 ---
 
-![Bitcoin Socratic Seminar #21](/bitcoin-socratic-seminar-21.jpg)
-
-It’s almost time for <a href="https://www.meetup.com/azbitcoinevents/295676818/">Bitcoin Socratic Seminar #21</a>!
+It’s almost time for our first BitDevs Phoenix event!
 
 ## What is a Socratic Seminar?
 
@@ -16,44 +14,21 @@ are formatted to foster debate, information sharing and lively discussion.
 1. Discussion topics are provided ahead of the event
 2. The event moderator(s) leads the audience through the topics
 3. Raise your hand to grab the mic and participate in the conversation
-4. We go to a bar afterwards
-
-## Logistics for Tonight
-
-We’re looking forward to seeing you tonight at Bitcoin Socratic Seminar #21! This should be a big one. Thanks so much to our sponsors <a href="https://voltage.cloud/" data-no-summary>Voltage</a>, <a href="https://libertypay.com/" data-no-summary>LibertyPay</a>, <a href="https://atlbitlab.com/" data-no-summary>ATL BitLab</a>, <a href="https://www.bitrefill.com/buy" data-no-summary>Bitrefill</a>.
 
 ### 🏫 Location
 
-**GSU Dahlberg Hall**<br />
-30 Courtland St SE, Phoenix, GA 30303<br />
-<a href="https://goo.gl/maps/ARtQe6witNbe48FL9" data-no-summary>Map Link</a><br />
-_This venue is part of Georgia State University and also sometimes goes by the name “Veteran’s Memorial Hall”._
+850 N 5th St, Phoenix, AZ 85004<br />
+<a href="https://maps.app.goo.gl/JWQVHvn2yu1GkSPe9" data-no-summary>Map Link</a><br />
+
+This venue is part of Arizona State University.
 
 ### 🚘 Parking
 
-The closest parking deck is called M-Deck. It is a paid parking deck located directly behind Dahlberg Hall.
+There is a large paid parking lot right across the street. You may also find metered parking near by and scarce free parking right in front of the building.
 
 ### 🚕 Rideshare
 
 Uber and Lyft work great in this city.
-
-### 🚋 Public Transit
-
-You can take the <a href="https://www.itsmarta.com/phoenix-Street-Car-Info.aspx" data-no-summary>Phoenix Streetcar</a> from Centennial Olympic Park to Hurt Park.
-
-### 🚶‍♀️ Walking
-
-From the Omni, it’s manageable 0.8 mile walk. However, be careful alert back late at night or get a rideshare back.
-
-### 🍻 Afterwards
-
-Typically, everyone goes to get dinner or hang out at a bar afterwards. There is no official venue for this, but some suggestions are:
-
-- Sidebar
-- Park Bar
-- Hudson Grille
-
-Make friends at the Seminar and form a dinner train for your crew!
 
 ## Topics
 
@@ -100,18 +75,7 @@ Make friends at the Seminar and form a dinner train for your crew!
 - <a href="https://github.com/bitcoin-dev-project/sim-ln" data-no-summary>SimLN</a>
 - <a href="https://github.com/tee8z/doppler" data-no-summary>Doppler</a>
 
-### 🎨 User Experience
-
-#### HRF Bounty for Bitcoin UI Kit
-
-- <a href="https://hrfbounties.org/" data-no-summary>HRF Bounty List</a>
-- <a href="https://www.bitcoinuikit.com/" data-no-summary>Bitcoin UI Kit (Figma)</a>
-- <a href="https://github.com/cypherstack/bitcoin-ui-kit-penpot" data-no-summary>Awarded Submissions</a>
-- <a href="https://discord.com/channels/903125802726596648/1144396832299036703" data-no-summary>Discussion in Bitcoin Design Community about modifying architecture for better FOSS collaboration in PenPot</a>
-
 ### 🧠 AI
-
-[BitDevs Upgrade template v0.1.0-alpha released](https://github.com/Phoenixbitdevs/bitdevs-upgrade)
 
 [Llama-GPT for Umbrel released](https://github.com/getumbrel/llama-gpt)
 

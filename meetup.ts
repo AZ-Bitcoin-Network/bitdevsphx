@@ -32,14 +32,14 @@ export const meetup: Meetup = {
     },
     {
       text: 'Meetup',
-      link: 'https://www.meetup.com/Phoenixbitdevs/',
+      link: 'https://www.meetup.com/azbitcoin/',
     },
     {
       text: 'Contact',
       link: '/page/contact',
     },
   ],
-  image: '/phoenix-bitdevs-poster.jpg',
+  image: '/phx-bitdevs.png',
   ai: [
     {
       name: 'Summarized',
