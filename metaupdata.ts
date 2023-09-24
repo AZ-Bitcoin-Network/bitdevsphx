@@ -9,16 +9,16 @@ export const metaupdata: Metaupdata = {
     'The Phoenix BitDevs is a place for free and open Bitcoin education in Phoenix. Discussions will be technical but are open to people of all skill levels. Join the community and #LearnBitcoinTogether!',
   colors: {
     primary: {
-      hex: '#FFFFFF',
-      rgb: 'rgb(255, 153, 0)',
+      hex: '#95eb27',
+      rgb: 'rgb(0, 0, 0)',
     },
     secondary: {
       hex: '#333333',
       rgb: 'rgb(51, 51, 51)',
     },
     tertiary: {
-      hex: '#FF9900',
-      rgb: 'rgb(255, 255, 255)',
+      hex: '#95eb27',
+      rgb: 'rgb(0, 0, 0)',
     },
   },
   mainNav: [

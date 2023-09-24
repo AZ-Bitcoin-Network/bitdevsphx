@@ -40,13 +40,14 @@ export default function RootLayout({
         <meta property="og:image:width" content="1920" />
         <meta property="og:image:height" content="1080" />
         <meta property="og:image:alt" content="" />
+        <meta property="og:title" content="BitDevs Phoenix" />
       </head>
       <body
         className={`${
           inter.className + ' ' + ibmPlexSerif.className
-        } ${switchThemeDuration}`}
+        }`}
       >
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           <Header />
           {children}
         </ThemeProvider>
