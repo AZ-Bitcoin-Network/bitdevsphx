@@ -34,7 +34,6 @@ Uber and Lyft work great in this city.
 
 ### 🧡 Education
 
-\
 <a href="https://zbd.dev/courses/webdev101/introduction" data-no-summary>Web Dev 101</a>
 
 <a href="https://zbd.dev/courses/webdev101/html-css" data-no-summary>Web Dev 201</a>
