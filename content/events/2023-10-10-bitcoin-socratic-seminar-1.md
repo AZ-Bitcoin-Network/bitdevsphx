@@ -34,10 +34,14 @@ Uber and Lyft work great in this city.
 
 ### 🧡 Education
 
-<a href="https://zbd.dev/courses/lightning-network-101" data-no-summary>The Bitcoin Lightning Course</a>
-<a href="https://www.youtube.com/playlist?list=PLaMJnpgudSAAqJV52K7_YwgtkLt2rlcK1" data-no-summary>ZBD Hackathon Course</a>
+\
 <a href="https://zbd.dev/courses/webdev101/introduction" data-no-summary>Web Dev 101</a>
+
 <a href="https://zbd.dev/courses/webdev101/html-css" data-no-summary>Web Dev 201</a>
+
+<a href="https://zbd.dev/courses/lightning-network-101" data-no-summary>The Bitcoin Lightning Course</a>
+
+<a href="https://www.youtube.com/playlist?list=PLaMJnpgudSAAqJV52K7_YwgtkLt2rlcK1" data-no-summary>ZBD Hackathon Course</a>
 
 ### 🟣 Nostr
 
