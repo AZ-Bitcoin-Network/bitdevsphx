@@ -87,6 +87,16 @@ Uber and Lyft work great in this city.
 - <a href="https://github.com/bitcoin-dev-project/sim-ln" data-no-summary>SimLN</a>
 - <a href="https://github.com/tee8z/doppler" data-no-summary>Doppler</a>
 
+### Fedimint
+
+We should collaborate and create a multisig Fedimint instance to experiment with circular bitcoin economies at our meetups. here is a link to the code which has their first official release. Obviously a lot of discussion needs to go into this before we should start building anything. Some questions I can think of are:
+
+- Who will be the custodians?
+- Where will we host it?
+- Who and How do we maintain it?
+- Does fedimint include a front end and if not who will develop one?
+- How will we onboard people? (meetup vendors and attendees)
+
 ### 🎨 User Experience
 
 #### HRF Bounty for Bitcoin UI Kit
@@ -109,6 +119,10 @@ Uber and Lyft work great in this city.
 [Chainalysis Investigations Lead is 'Unaware' of Scientific Evidence the Surveillance Software Works](https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence)
 
 [Declaration of Elizabeth A. Bisbee - Exhibit 1 — Document #149, Attachment #1](https://www.courtlistener.com/docket/59988850/149/1/united-states-v-sterlingov/)
+
+[Malware in NPM packages](https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm?utm_source=tldrinfosec)
+
+- It’s probably not safe to run npm install directly on you machine anymore. These packages can define arbitrary scripts that run when installed. All it takes is one dependency anywhere on the dependency tree to be compromised and your system could be compromised. Docker and dev containers is one potential solution to this problem. Other JavaScript runtimes like deno provide protections against this type of attack
 
 ### 🟣 Nostr
 
